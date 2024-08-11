@@ -1,0 +1,7 @@
+[
+null,
+{"id":1,"expanded":true,"name":"MAP001","order":1,"parentId":0,"scrollX":491,"scrollY":344},
+{"id":2,"expanded":true,"name":"山村","order":2,"parentId":1,"scrollX":499,"scrollY":856,"quick":false},
+{"id":3,"expanded":true,"name":"武器商店","order":3,"parentId":2,"scrollX":491,"scrollY":368,"quick":false},
+{"id":4,"expanded":false,"name":"MAP004","order":4,"parentId":3,"scrollX":491,"scrollY":352,"quick":false}
+]
